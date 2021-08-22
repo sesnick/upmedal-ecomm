@@ -2,3 +2,13 @@
 .container--text-home{
     background-color: #444444;
   }
+  .imageElement--carousel{
+    background-color: #444444;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+  }
+  .productBrand{
+    color:white;
+  }
